@@ -1,0 +1,51 @@
+const menuData = [
+  {
+    name: "פוקצ'ה לאונרדו",
+    ingredients: "לחם עם שמן זית ורוזמרין איטלקי",
+    price: 22,
+    photoName: "foods/Focacciabread.jpg",
+    soldOut: false,
+  },
+  {
+    name: "פיצה מרגריטה רפאל",
+    ingredients: "עגבניות ומוצרלה",
+    price: 36,
+    photoName: "foods/PizzaMargherita.jpg",
+    soldOut: false,
+  },
+  {
+    name: "פיצה תרד דונטלו",
+    ingredients: "עגבניות, מוצרלה, תרד וגבינת ריקוטה",
+    price: 42,
+    photoName: "foods/SpinachPizza.jpg",
+    soldOut: false,
+  },
+  {
+    name: "פיצה פטריות מיכלאנג'לו",
+    ingredients: "עגבניות, מוצרלה, פטריות ובצל",
+    price: 42,
+    photoName: "foods/MushroomPizza.jpg",
+    soldOut: false,
+  },
+  {
+    name: "סלט יווני רפאל",
+    ingredients: "עגבניות, מלפפונים, גבינת פטה, זיתים ובצל אדום",
+    price: 28,
+    photoName: "foods/GreekSalad.jpg",
+    soldOut: true,
+  },
+  {
+    name: "פסטה פנה אלפרדו לאונרדו",
+    ingredients: "פסטה ברוטב שמנת, פרמזן ועוף",
+    price: 38,
+    photoName: "foods/pennealfredo.jpg",
+    soldOut: false,
+  },
+  {
+    name: "קינוח טירמיסו דונטלו",
+    ingredients: "עוגת שכבות עם קרם מסקרפונה וקקאו",
+    price: 18,
+    photoName: "foods/tiramisu.jpg",
+    soldOut: false,
+  },
+];
